@@ -1,6 +1,8 @@
 ### Hi there 👋
 这是个测试，学习用的。
 
+我在进行对README文件的修改，然后准备提交。
+
 **jinpxx/jinpxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
